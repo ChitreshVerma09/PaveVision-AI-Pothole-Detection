@@ -58,3 +58,6 @@ PaveVision-AI-Pothole-Detection/
    python -m streamlit run app.py
    ```
    *(Note: Base `yolov8n.pt` weights download automatically on first run if custom weights are not provided.)*
+
+
+- **Priya Vaishnav** — [@Priya-Vaishnav-1507](https://github.com/Priya-Vaishnav-1507)
